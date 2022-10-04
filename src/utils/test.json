@@ -1,0 +1,2436 @@
+{
+  "1": {
+    "state": {
+      "on": false,
+      "bri": 178,
+      "hue": 0,
+      "sat": 0,
+      "effect": "none",
+      "xy": [0.5151, 0.3937],
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "notupdatable", "lastinstall": "2022-03-07T17:56:10"},
+    "type": "Color light",
+    "name": "Dining room lamp",
+    "modelid": "TRADFRI bulb E27 CWS opal 600lm",
+    "manufacturername": "IKEA of Sweden",
+    "productname": "Color light",
+    "capabilities": {
+      "certified": false,
+      "control": {"colorgamuttype": "other"},
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "classicbulb",
+      "function": "decorative",
+      "direction": "omnidirectional"
+    },
+    "uniqueid": "00:0b:57:ff:fe:ae:4c:32-01",
+    "swversion": "2.3.086"
+  },
+  "2": {
+    "state": {
+      "on": false,
+      "bri": 123,
+      "hue": 11528,
+      "sat": 191,
+      "effect": "none",
+      "xy": [0.4377, 0.4579],
+      "ct": 334,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:32:29"},
+    "type": "Extended color light",
+    "name": "Kitchen wall 2.1",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:da:77:d7-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "3": {
+    "state": {
+      "on": false,
+      "bri": 123,
+      "hue": 11528,
+      "sat": 191,
+      "effect": "none",
+      "xy": [0.4377, 0.4579],
+      "ct": 334,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:32:24"},
+    "type": "Extended color light",
+    "name": "Kitchen wall 3.1",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:e2:8d:a6-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "4": {
+    "state": {
+      "on": false,
+      "bri": 2,
+      "hue": 0,
+      "sat": 0,
+      "effect": "none",
+      "xy": [0.6275, 0.3258],
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "notupdatable", "lastinstall": "2022-03-07T18:04:08"},
+    "type": "Color light",
+    "name": "Office color light",
+    "modelid": "TRADFRI bulb E27 CWS opal 600lm",
+    "manufacturername": "IKEA of Sweden",
+    "productname": "Color light",
+    "capabilities": {
+      "certified": false,
+      "control": {"colorgamuttype": "other"},
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "classicbulb",
+      "function": "decorative",
+      "direction": "omnidirectional"
+    },
+    "uniqueid": "00:0b:57:ff:fe:ae:c0:ce-01",
+    "swversion": "2.3.086"
+  },
+  "5": {
+    "state": {
+      "on": false,
+      "bri": 87,
+      "ct": 454,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "notupdatable", "lastinstall": "2022-03-07T18:08:00"},
+    "type": "Color temperature light",
+    "name": "Office desk light 1",
+    "modelid": "TRADFRI bulb E14 WS opal 400lm",
+    "manufacturername": "IKEA of Sweden",
+    "productname": "Color temperature light",
+    "capabilities": {
+      "certified": false,
+      "control": {"ct": {"min": 250, "max": 454}},
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "classicbulb",
+      "function": "functional",
+      "direction": "omnidirectional"
+    },
+    "uniqueid": "00:0b:57:ff:fe:6f:8e:4b-01",
+    "swversion": "2.3.087"
+  },
+  "6": {
+    "state": {
+      "on": false,
+      "bri": 74,
+      "ct": 454,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "notupdatable", "lastinstall": "2022-03-07T18:08:05"},
+    "type": "Color temperature light",
+    "name": "Office desk light 2",
+    "modelid": "TRADFRI bulb E14 WS opal 400lm",
+    "manufacturername": "IKEA of Sweden",
+    "productname": "Color temperature light",
+    "capabilities": {
+      "certified": false,
+      "control": {"ct": {"min": 250, "max": 454}},
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "classicbulb",
+      "function": "functional",
+      "direction": "omnidirectional"
+    },
+    "uniqueid": "00:0b:57:ff:fe:26:d5:c9-01",
+    "swversion": "2.3.087"
+  },
+  "7": {
+    "state": {
+      "on": true,
+      "bri": 254,
+      "ct": 451,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:32:03"},
+    "type": "Color temperature light",
+    "name": "Kitchen island spot 3",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:e2:eb:1f-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "8": {
+    "state": {
+      "on": true,
+      "bri": 79,
+      "ct": 451,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:31:57"},
+    "type": "Color temperature light",
+    "name": "Kitchen island spot 2",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:e2:e2:69-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "9": {
+    "state": {
+      "on": true,
+      "bri": 254,
+      "ct": 451,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:30:11"},
+    "type": "Color temperature light",
+    "name": "Kitchen island spot 4",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:e3:68:72-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "10": {
+    "state": {
+      "on": true,
+      "bri": 77,
+      "ct": 451,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:31:52"},
+    "type": "Color temperature light",
+    "name": "Kitchen island spot 1",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:da:c4:56-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "11": {
+    "state": {
+      "on": true,
+      "bri": 77,
+      "ct": 451,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:31:46"},
+    "type": "Color temperature light",
+    "name": "Kitchen island spot 5",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:db:4d:59-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "12": {
+    "state": {
+      "on": false,
+      "bri": 165,
+      "hue": 7320,
+      "sat": 218,
+      "effect": "none",
+      "xy": [0.5194, 0.4141],
+      "ct": 480,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:31:41"},
+    "type": "Extended color light",
+    "name": "Extension spot 1",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:b5:db:60-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "13": {
+    "state": {
+      "on": false,
+      "bri": 165,
+      "hue": 7320,
+      "sat": 218,
+      "effect": "none",
+      "xy": [0.5194, 0.4141],
+      "ct": 480,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:31:36"},
+    "type": "Extended color light",
+    "name": "Extension spot 7",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:b5:82:2c-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "14": {
+    "state": {
+      "on": false,
+      "bri": 165,
+      "hue": 7320,
+      "sat": 218,
+      "effect": "none",
+      "xy": [0.5194, 0.4141],
+      "ct": 480,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:30:06"},
+    "type": "Extended color light",
+    "name": "Extension spot 3",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:b5:d9:95-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "15": {
+    "state": {
+      "on": false,
+      "bri": 165,
+      "hue": 7320,
+      "sat": 218,
+      "effect": "none",
+      "xy": [0.5194, 0.4141],
+      "ct": 480,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:31:27"},
+    "type": "Extended color light",
+    "name": "Extension spot 5",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:da:b2:7b-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "16": {
+    "state": {
+      "on": false,
+      "bri": 165,
+      "hue": 7320,
+      "sat": 218,
+      "effect": "none",
+      "xy": [0.5194, 0.4141],
+      "ct": 480,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:31:22"},
+    "type": "Extended color light",
+    "name": "Extension spot 6",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:da:ae:8d-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "17": {
+    "state": {
+      "on": false,
+      "bri": 165,
+      "hue": 7320,
+      "sat": 218,
+      "effect": "none",
+      "xy": [0.5194, 0.4141],
+      "ct": 480,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:31:17"},
+    "type": "Extended color light",
+    "name": "Extension spot 2",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:b5:d3:4c-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "18": {
+    "state": {
+      "on": false,
+      "bri": 165,
+      "hue": 7320,
+      "sat": 218,
+      "effect": "none",
+      "xy": [0.5194, 0.4141],
+      "ct": 480,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:03:40"},
+    "type": "Extended color light",
+    "name": "Extension spot 4",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:da:af:b1-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "20": {
+    "state": {
+      "on": false,
+      "bri": 92,
+      "ct": 424,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:31:02"},
+    "type": "Color temperature light",
+    "name": "Bed left spot 1.2",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:e3:71:a3-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "21": {
+    "state": {
+      "on": false,
+      "bri": 129,
+      "hue": 7208,
+      "sat": 223,
+      "effect": "none",
+      "xy": [0.5249, 0.4136],
+      "ct": 497,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:32:19"},
+    "type": "Extended color light",
+    "name": "Kitchen wall 1.2",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:db:ea:12-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "22": {
+    "state": {
+      "on": false,
+      "bri": 80,
+      "ct": 451,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:32:13"},
+    "type": "Color temperature light",
+    "name": "Kitchen ceiling spot 4",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:bb:ac:55-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "23": {
+    "state": {
+      "on": false,
+      "bri": 80,
+      "hue": 7208,
+      "sat": 223,
+      "effect": "none",
+      "xy": [0.5249, 0.4136],
+      "ct": 497,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:32:08"},
+    "type": "Extended color light",
+    "name": "Kitchen celing spot 3 color",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:e3:f9:e4-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "24": {
+    "state": {
+      "on": false,
+      "bri": 159,
+      "hue": 7247,
+      "sat": 222,
+      "effect": "none",
+      "xy": [0.5232, 0.4138],
+      "ct": 493,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:30:57"},
+    "type": "Extended color light",
+    "name": "Living room spot 3 color",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:e3:e7:ea-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "25": {
+    "state": {
+      "on": false,
+      "bri": 122,
+      "hue": 11528,
+      "sat": 191,
+      "effect": "none",
+      "xy": [0.4377, 0.4579],
+      "ct": 334,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-07T13:30:52"},
+    "type": "Extended color light",
+    "name": "Kitchen wall 1.1",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:da:ad:29-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "26": {
+    "state": {
+      "on": false,
+      "bri": 80,
+      "ct": 451,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:03:21"},
+    "type": "Color temperature light",
+    "name": "Kitchen ceiling spot 2",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:bb:ac:31-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "27": {
+    "state": {
+      "on": false,
+      "bri": 129,
+      "hue": 7208,
+      "sat": 223,
+      "effect": "none",
+      "xy": [0.5249, 0.4136],
+      "ct": 497,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:03:13"},
+    "type": "Extended color light",
+    "name": "Kitchen wall 2.2",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:dc:02:ea-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "28": {
+    "state": {
+      "on": false,
+      "bri": 159,
+      "ct": 451,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:03:03"},
+    "type": "Color temperature light",
+    "name": "Living room spot 4",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:e2:de:92-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "30": {
+    "state": {
+      "on": false,
+      "bri": 159,
+      "hue": 7247,
+      "sat": 222,
+      "effect": "none",
+      "xy": [0.5232, 0.4138],
+      "ct": 493,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:02:47"},
+    "type": "Extended color light",
+    "name": "Living room spot 1 color",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:db:d3:fe-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "31": {
+    "state": {
+      "on": false,
+      "bri": 159,
+      "ct": 451,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-23T12:47:14"},
+    "type": "Color temperature light",
+    "name": "Living room spot 2",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:da:e9:b1-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "32": {
+    "state": {
+      "on": false,
+      "bri": 129,
+      "hue": 7208,
+      "sat": 223,
+      "effect": "none",
+      "xy": [0.5249, 0.4136],
+      "ct": 497,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:02:39"},
+    "type": "Extended color light",
+    "name": "Kitchen wall 3.2",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:e4:18:01-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "33": {
+    "state": {
+      "on": false,
+      "bri": 210,
+      "ct": 413,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:02:32"},
+    "type": "Color temperature light",
+    "name": "Front door hallway spot 1.1",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0c:41:8b:09-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "34": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "hue": 49792,
+      "sat": 234,
+      "effect": "none",
+      "xy": [0.2434, 0.1085],
+      "ct": 500,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:02:23"},
+    "type": "Extended color light",
+    "name": "Front door hallway spot 1.2 c",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:ba:ad:b8-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "35": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "hue": 49792,
+      "sat": 234,
+      "effect": "none",
+      "xy": [0.2434, 0.1085],
+      "ct": 500,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:02:15"},
+    "type": "Extended color light",
+    "name": "Front door hallway spot 3.2 c",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:bc:ff:24-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "36": {
+    "state": {
+      "on": false,
+      "bri": 210,
+      "ct": 413,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:02:06"},
+    "type": "Color temperature light",
+    "name": "Front door hallway spot 2.1",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:c6:62:bb-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "37": {
+    "state": {
+      "on": false,
+      "bri": 210,
+      "ct": 413,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T13:58:41"},
+    "type": "Color temperature light",
+    "name": "Front door hallway spot 3.1",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0c:41:89:74-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "38": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "hue": 49792,
+      "sat": 234,
+      "effect": "none",
+      "xy": [0.2434, 0.1085],
+      "ct": 500,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:01:47"},
+    "type": "Extended color light",
+    "name": "Front door hallway spot 2.1 c",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:c3:1d:3b-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "39": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "hue": 49792,
+      "sat": 234,
+      "effect": "none",
+      "xy": [0.2434, 0.1085],
+      "ct": 500,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:01:38"},
+    "type": "Extended color light",
+    "name": "Front door hallway spot 6.2 c",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:ba:ae:4b-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "40": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "hue": 49792,
+      "sat": 234,
+      "effect": "none",
+      "xy": [0.2434, 0.1085],
+      "ct": 500,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:01:28"},
+    "type": "Extended color light",
+    "name": "Front door hallway spot 4.2 c",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:ba:98:7e-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "41": {
+    "state": {
+      "on": false,
+      "bri": 210,
+      "ct": 413,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:01:21"},
+    "type": "Color temperature light",
+    "name": "Front door hallway spot 5.2",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:c6:63:b7-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "42": {
+    "state": {
+      "on": false,
+      "bri": 210,
+      "ct": 413,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:16:27"},
+    "type": "Color temperature light",
+    "name": "Front door hallway spot 6.1",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:c6:63:b4-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "43": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "hue": 49792,
+      "sat": 234,
+      "effect": "none",
+      "xy": [0.2434, 0.1085],
+      "ct": 500,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:16:20"},
+    "type": "Extended color light",
+    "name": "Front door hallway spot 5.1 c",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:ba:ad:b4-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "44": {
+    "state": {
+      "on": false,
+      "bri": 210,
+      "ct": 413,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:16:17"},
+    "type": "Color temperature light",
+    "name": "Front door hallway spot 4.1",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:c6:59:a9-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "45": {
+    "state": {
+      "on": false,
+      "bri": 77,
+      "hue": 8381,
+      "sat": 141,
+      "effect": "none",
+      "xy": [0.4583, 0.4099],
+      "ct": 366,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:16:11"},
+    "type": "Extended color light",
+    "name": "Bedroom hallway spot 1.2 c",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:ba:99:5c-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "46": {
+    "state": {
+      "on": false,
+      "bri": 77,
+      "ct": 366,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:16:07"},
+    "type": "Color temperature light",
+    "name": "Bedroom hallway 2.2",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0c:3d:fd:2c-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "47": {
+    "state": {
+      "on": false,
+      "bri": 77,
+      "hue": 8381,
+      "sat": 141,
+      "effect": "none",
+      "xy": [0.4583, 0.4099],
+      "ct": 366,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:16:02"},
+    "type": "Extended color light",
+    "name": "Bedroom hallway 2.1 c",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:c3:1d:ac-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "48": {
+    "state": {
+      "on": false,
+      "bri": 77,
+      "ct": 366,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:14:49"},
+    "type": "Color temperature light",
+    "name": "Bedroom hallway 1.1",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0c:41:a1:51-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "49": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "ct": 366,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:15:57"},
+    "type": "Color temperature light",
+    "name": "Bedroom ceiling spot 3",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:da:c9:dd-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "50": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "ct": 366,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:15:52"},
+    "type": "Color temperature light",
+    "name": "Bedroom closet spot 2",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0c:41:8c:4d-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "51": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "ct": 366,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:15:47"},
+    "type": "Color temperature light",
+    "name": "Bedroom closet spot 4",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:bc:cf:ed-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "52": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "ct": 366,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:15:44"},
+    "type": "Color temperature light",
+    "name": "Bedroom ceiling spot 4",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:b8:40:30-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "53": {
+    "state": {
+      "on": false,
+      "bri": 102,
+      "hue": 58128,
+      "sat": 162,
+      "effect": "none",
+      "xy": [0.4408, 0.2663],
+      "ct": 337,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:15:42"},
+    "type": "Extended color light",
+    "name": "Bed right spot 1.1 c",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:dc:03:ca-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  },
+  "54": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "ct": 366,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:15:37"},
+    "type": "Color temperature light",
+    "name": "Bedroom ceiling spot 1",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:bb:ac:2f-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "55": {
+    "state": {
+      "on": false,
+      "bri": 102,
+      "ct": 413,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:15:32"},
+    "type": "Color temperature light",
+    "name": "Bed right spot 1.2",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0c:3d:fa:20-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "56": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "ct": 366,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:15:29"},
+    "type": "Color temperature light",
+    "name": "Bedroom ceiling spot 2",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0c:41:a1:5c-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "57": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "ct": 366,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:15:26"},
+    "type": "Color temperature light",
+    "name": "Bedroom closet spot 3",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:bc:df:e7-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "58": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "ct": 366,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:15:21"},
+    "type": "Color temperature light",
+    "name": "Bedroom closet spot 1",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:c6:59:bd-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "59": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "ct": 337,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:15:15"},
+    "type": "Color temperature light",
+    "name": "Office ceiling spot 3",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:bb:83:d1-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "60": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "ct": 337,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:15:10"},
+    "type": "Color temperature light",
+    "name": "Office ceiling spot 2",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:bb:86:3c-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "61": {
+    "state": {
+      "on": false,
+      "bri": 254,
+      "ct": 337,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-06-24T12:15:05"},
+    "type": "Color temperature light",
+    "name": "Office ceiling spot 4",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:0b:b8:53:a9-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "62": {
+    "state": {
+      "on": false,
+      "bri": 213,
+      "ct": 454,
+      "alert": "select",
+      "colormode": "ct",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:03:49"},
+    "type": "Color temperature light",
+    "name": "Kitchen ceiling spot 1",
+    "modelid": "LTG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue ambiance spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 350,
+        "ct": {"min": 153, "max": 454}
+      },
+      "streaming": {"renderer": false, "proxy": false}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "functional",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:db:58:65-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "87D6EF03",
+    "productid": "Philips-LTG002-3-GU10CTv2"
+  },
+  "63": {
+    "state": {
+      "on": false,
+      "bri": 92,
+      "hue": 45519,
+      "sat": 184,
+      "effect": "none",
+      "xy": [0.2167, 0.1731],
+      "ct": 500,
+      "alert": "select",
+      "colormode": "xy",
+      "mode": "homeautomation",
+      "reachable": true
+    },
+    "swupdate": {"state": "noupdates", "lastinstall": "2022-01-14T14:02:55"},
+    "type": "Extended color light",
+    "name": "Bed left 1.1 c",
+    "modelid": "LCG002",
+    "manufacturername": "Signify Netherlands B.V.",
+    "productname": "Hue color spot",
+    "capabilities": {
+      "certified": true,
+      "control": {
+        "mindimlevel": 200,
+        "maxlumen": 300,
+        "colorgamuttype": "C",
+        "colorgamut": [
+          [0.6915, 0.3083],
+          [0.17, 0.7],
+          [0.1532, 0.0475]
+        ],
+        "ct": {"min": 153, "max": 500}
+      },
+      "streaming": {"renderer": true, "proxy": true}
+    },
+    "config": {
+      "archetype": "spotbulb",
+      "function": "mixed",
+      "direction": "downwards",
+      "startup": {"mode": "safety", "configured": true}
+    },
+    "uniqueid": "00:17:88:01:09:db:ea:70-0b",
+    "swversion": "1.93.11",
+    "swconfigid": "D779D146",
+    "productid": "Philips-LCG002-3-GU10ECLv2"
+  }
+}
