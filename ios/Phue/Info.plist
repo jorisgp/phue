@@ -26,9 +26,11 @@
 	<true/>
 	<key>NSAppTransportSecurity</key>
 	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
 		<key>NSExceptionDomains</key>
 		<dict>
-			<key>localhost</key>
+			<key>192.168.1.151</key>
 			<dict>
 				<key>NSExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
@@ -51,5 +53,12 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_hue._tcp.</string>
+		<string>_http._tcp.</string>
+	</array>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Describe why you want to use local network discovery here</string>
 </dict>
 </plist>
